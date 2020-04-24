@@ -1,0 +1,4 @@
+C:\c#\CarCatalog\CarCatalog\bin\Debug\CarCatalog.exe
+C:\c#\CarCatalog\CarCatalog\bin\Debug\CarCatalog.pdb
+C:\c#\CarCatalog\CarCatalog\obj\x86\Debug\CarCatalog.exe
+C:\c#\CarCatalog\CarCatalog\obj\x86\Debug\CarCatalog.pdb
